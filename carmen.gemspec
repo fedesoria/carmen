@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.name = %q{carmen}
   s.summary = %q{A collection of geographic region data for Ruby}
   s.description = %q{Includes data from the Debian iso-data project.}
-  s.version = Carmen::VERSION
+  s.version = '1.0.0.fede'
   s.authors = ["Jim Benton"]
   s.email = %q{jim@autonomousmachine.com}
   s.homepage = %q{http://github.com/jim/carmen}
